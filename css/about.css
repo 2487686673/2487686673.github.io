@@ -356,7 +356,7 @@ body {
 }
 
 #item_2 .cycle_icon_2 {
-	background: url('../images/icon/weibo.png');
+	background: url('../images/icon/ks.png');
 	border-radius: 25px;
 	display: block;
 	width: 50px;
@@ -374,7 +374,7 @@ body {
 }
 
 #item_3 .cycle_icon_3 {
-	background: url('../images/icon/blog.png');
+	background: url('../images/icon/bilibili.png');
 	display: block;
 	width: 50px;
 	height: 50px;
@@ -745,7 +745,7 @@ body {
 
 .uname1_items a {
 	background-color: rgba(189, 64, 64, 0.8);
-	background: url(../images/icon/blog.png);
+	background: url(../images/icon/bilibili.png);
 }
 
 .qie_items {
