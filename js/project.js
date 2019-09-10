@@ -283,7 +283,7 @@ function getDateDiff(st, en) {
 function show_date_time() {
 	var tm = document.getElementsByName('show_time');
 	for(var i = 0; i < tm.length; i++) {
-		tm[i].innerText = "梦雪 の主页已存活" + getDateDiff(tm[i].title);
+		tm[i].innerText = "梦雪の主页已存活" + getDateDiff(tm[i].title);
 	}
 	//window.setTimeout("show_date_time()", 1000);
 }
