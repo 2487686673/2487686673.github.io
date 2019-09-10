@@ -730,20 +730,20 @@ body {
 	background: url(../images/icon/twitter.png);
 }
 
-.pan_items {
+.qun1 {
 	background: rgba(59, 89, 152, 0.8);
 }
 
-.pan_items a {
+.qun1 a {
 	background-color: rgba(59, 89, 152, 0.8);
 	background: url(../images/icon/pan.png);
 }
 
-.uname1_items {
+.codenote_items {
 	background: rgba(189, 64, 64, 0.8);
 }
 
-.uname1_items a {
+.codenote_items a {
 	background-color: rgba(189, 64, 64, 0.8);
 	background: url(../images/icon/bilibili.png);
 }
@@ -766,11 +766,11 @@ body {
 	background: url(../file.ico);
 }
 
-.email_items {
+.qun2 {
 	background: rgba(51, 153, 102, 0.8);
 }
 
-.email_items a {
+.qun2 a {
 	background-color: rgba(51, 153, 102, 0.8);
 	background: url(../images/icon/email.png);
 }
