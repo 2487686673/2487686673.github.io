@@ -730,11 +730,11 @@ body {
 	background: url(../images/icon/twitter.png);
 }
 
-.qun1 {
+.qun1_items {
 	background: rgba(59, 89, 152, 0.8);
 }
 
-.qun1 a {
+.qun1_items a {
 	background-color: rgba(59, 89, 152, 0.8);
 	background: url(../images/icon/pan.png);
 }
@@ -766,11 +766,11 @@ body {
 	background: url(../file.ico);
 }
 
-.qun2 {
+.qun2_items {
 	background: rgba(51, 153, 102, 0.8);
 }
 
-.qun2 a {
+.qun2_items a {
 	background-color: rgba(51, 153, 102, 0.8);
 	background: url(../images/icon/email.png);
 }
